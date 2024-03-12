@@ -1,0 +1,1 @@
+export { foo3 } from './hi'
